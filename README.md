@@ -3,6 +3,7 @@
 A machine learning project that predicts whether a telecom customer will churn (cancel their service), using the [IBM Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) from Kaggle.
 
 > **Course:** Data Analysis with Python — Final Project No. 02
+
 > **Group 9** | Supervised by Dr. Tran Hung
 
 ---
