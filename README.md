@@ -4,7 +4,7 @@ A machine learning project that predicts whether a telecom customer will churn (
 
 > **Course:** Data Analysis with Python — Final Project No. 02
 
-> **Group 9** | Supervised by Dr. Tran Hung
+> **Group 3** | Supervised by Dr. Tran Hung
 
 ---
 
