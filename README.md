@@ -111,7 +111,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn kaggle
 
 ### Run the Notebook
 
-Open `telco_customer_churn.ipynb` in Jupyter or Google Colab and run all cells sequentially.
+Open `Telco_Customer_Churn.ipynb` in Jupyter or Google Colab and run all cells sequentially.
 
 ---
 
@@ -128,8 +128,10 @@ Open `telco_customer_churn.ipynb` in Jupyter or Google Colab and run all cells s
 
 ```
 telco-customer-churn-prediction/
+├── Images/
 ├── figs/
-├── telco_customer_churn.ipynb   # Main analysis notebook
+├── Final_DA.pdf # Report
+├── Telco_Customer_Churn.ipynb   # Main analysis notebook
 └── README.md
 ```
 
